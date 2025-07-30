@@ -46,12 +46,9 @@ int main(){
 
     cout << "Pre-order traversal: ";
     PreOrderTraversal(root);
-    cout << endl;
     cout << "Post-order traversal: ";
     PostOrderTraversal(root);
-    cout << endl;
     cout << "In-order traversal: ";
     InOrderTraversal(root);
-    cout << endl;
 
 }
