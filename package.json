@@ -1,0 +1,28 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "![Solidity](https://tse1.mm.bing.net/th/id/OIP.xK4uQJZnUfb1n5yyG6si-QHaD4?rs=1&pid=ImgDetMain&o=7&rm=3)",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/THARUN-BART/practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/THARUN-BART/practice/issues"
+  },
+  "homepage": "https://github.com/THARUN-BART/practice#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
